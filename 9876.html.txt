@@ -1,0 +1,10 @@
+<html>
+<head></head>
+<title> kiriti page </title>
+<body>
+
+this is sample by kiriti
+
+</body>
+
+</html>
